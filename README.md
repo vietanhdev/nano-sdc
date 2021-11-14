@@ -1,2 +1,4 @@
-# nano-sdc
-Nano self-driving car course - Resources
+# Nano Self-driving Course
+
+Resources for self-driving course by vietanhdev.
+
